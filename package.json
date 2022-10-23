@@ -1,0 +1,31 @@
+{
+  "name": "newman-reporter-progress-notty",
+  "version": "1.0.0",
+  "description": "Fork of Newman's reporter Progress that supports noTTY",
+  "main": "index.js",
+  "dependencies": {
+    "cli-progress": "3.10.0"
+  },
+  "devDependencies": {
+    "newman": "^5.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioccrr/newman-reporter-progress-notty.git"
+  },
+  "keywords": [
+    "newman",
+    "reporter",
+    "progress",
+    "notty"
+  ],
+  "author": "Sergio Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergioccrr/newman-reporter-progress-notty/issues"
+  },
+  "homepage": "https://github.com/sergioccrr/newman-reporter-progress-notty#readme"
+}
